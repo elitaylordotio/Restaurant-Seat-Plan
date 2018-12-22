@@ -1,4 +1,4 @@
-# resturant-seat-plan
+# restaurant-seat-plan
 
 ## Project setup
 ```
